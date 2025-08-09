@@ -3,9 +3,24 @@
     {
       "Path": "Main.xaml",
       "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "DataTable&Sequence_2",
+        "DataTableCSV&Sequence_2",
+        "DataTableResult&Sequence_2",
+        "dtfiltered&Sequence_2",
+        "intCount&Sequence_2",
+        "intCountDays&Sequence_9"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": null,
+      "SortBy": 0,
       "VariablesSectionElementsOrder": [],
       "ArgumentsSectionElementsOrder": null,
-      "ConstantsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     }
   ]

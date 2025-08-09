@@ -16754,19 +16754,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASHMITA\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Excel-CSV-Process",
       "projectName": "Excel-CSV-Process",
-      "projectPath": "C:\\Users\\ASHMITA\\OneDrive\\Desktop\\ARPA\\ex 7 library fine system\\.local",
-      "packagesPath": "C:\\Users\\ASHMITA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASHMITA\\OneDrive\\Desktop\\ARPA\\ex 7 library fine system\\.local",
-      "UsingMicrosoftNETSdk": false,
-      "restoreAuditProperties": {
-        "enableAudit": "False"
-      }
+      "projectPath": "D:\\220701095-ARPA_LAB\\library fine system\\.local",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "D:\\220701095-ARPA_LAB\\library fine system\\.local"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -16787,7 +16783,7 @@
             "version": "[25.6.1, 25.6.1]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\ASHMITA\\AppData\\Local\\Programs\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\HP\\AppData\\Local\\Programs\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
