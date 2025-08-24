@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Automation Developer Associate Training ",
+  "Type": "Screen",
+  "Id": "9UqqzJFypEGd6kHg8QeUOg",
+  "Reference": "ksyKvWNvmEe9xONf_BdSTQ/9UqqzJFypEGd6kHg8QeUOg",
+  "ParentRef": "ksyKvWNvmEe9xONf_BdSTQ/AMru7VEmq02WZxsOSFX3Kg",
+  "Created": "2025-08-18T08:05:15.2396701Z",
+  "Updated": "2025-08-18T08:05:15.2396701Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

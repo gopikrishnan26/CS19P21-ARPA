@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Home  Rajalakshmi Engineering College (R",
+  "Type": "Screen",
+  "Id": "bMBQ4nkgJ0Caq9KWPeSK1Q",
+  "Reference": "ksyKvWNvmEe9xONf_BdSTQ/bMBQ4nkgJ0Caq9KWPeSK1Q",
+  "ParentRef": "ksyKvWNvmEe9xONf_BdSTQ/8obQ3eJzI0yhJqMenlVICg",
+  "Created": "2025-08-18T07:57:36.6092708Z",
+  "Updated": "2025-08-18T07:57:36.6092708Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
