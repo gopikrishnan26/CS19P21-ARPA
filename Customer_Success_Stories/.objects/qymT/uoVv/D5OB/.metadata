@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge MoE, National Institute Ranking Framewor",
+  "Type": "Screen",
+  "Id": "D5OB-6tUCk-pRl_UfGJL8A",
+  "Reference": "OKaI681NfUat6zL2wk1EkQ/D5OB-6tUCk-pRl_UfGJL8A",
+  "ParentRef": "OKaI681NfUat6zL2wk1EkQ/uoVvq-CgHEedFniFk6e4qg",
+  "Created": "2025-08-26T03:26:40.0390801Z",
+  "Updated": "2025-08-26T03:26:40.0390801Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
