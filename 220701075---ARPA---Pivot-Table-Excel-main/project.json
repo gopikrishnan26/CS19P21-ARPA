@@ -1,11 +1,11 @@
 {
-  "name": "EmailSplit",
-  "projectId": "1626efe3-779a-475e-9df1-6389659e105f",
+  "name": "PivotTable",
+  "projectId": "ed2fa525-8811-4a1a-acb4-c45df7c0ba0a",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.24.4]",
-    "UiPath.Mail.Activities": "[1.23.11]",
+    "UiPath.Mail.Activities": "[1.24.16]",
     "UiPath.System.Activities": "[24.10.7]",
     "UiPath.Testing.Activities": "[24.10.4]",
     "UiPath.UIAutomation.Activities": "[24.10.13]"
@@ -50,7 +50,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "fe118aab-8d8f-4808-974a-6cc3f4545131",
+      "uniqueId": "bac035ec-f9c1-432b-9c0c-c81649d1c483",
       "input": [],
       "output": []
     }
